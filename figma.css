@@ -1,0 +1,151 @@
+.container {
+    position: relative;
+    display: inline-block;
+  }
+  .inner-image1 {
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    transform: translate(-50,-50);
+  }
+  .container2 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50% , -50%);
+  }
+  .container3 {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    transform: translate(-50% , -50%);
+  }
+  .container4 {
+    position: absolute;
+    top: 75%;
+    left: 25%;
+    transform: translate(-50% , -50%);
+  }
+  .container5 {
+    position: relative;
+    display: inline-block;
+  }
+  .inner-image {
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    transform: translate(-50% , -50%);
+  }
+  .container6 {
+    position: absolute;
+    top: 89%;
+    left:30%;
+    transform: translate(-50% , -50%);
+  }
+  .container7 {
+    position: absolute;
+    top: 89%;
+    left: 45%;
+    transform: translate(-50% , -50%);
+  }
+  .container8 {
+    position: absolute;
+    top: 89%;
+    left: 65%;
+    transform: translate(-50% , -50%);
+  }
+
+  .container9 {
+    position: absolute;
+    top: 89%;
+    left: 85%;
+    transform: translate(-50% , -50%);
+  }
+
+  .container10 {
+    position: absolute;
+    top: 105%;
+    left: 40%;
+  }
+
+  .container11 {
+   position: absolute;
+   top: 120%;
+   left: 5%;
+   display: inline-flex;
+   gap: 2%;
+   
+
+  }
+
+  .container12 {
+
+    position: absolute;
+   top: 160%;
+   left: 5%;
+   display: inline-flex;
+   gap: 10%;
+    
+  }
+
+  .container13 {
+    position: absolute;
+    top: 165%;
+    left: 5%;
+    display: inline-flex;
+    gap: 16%;
+   
+  }
+  .container14 {
+    position: absolute;
+    top: 170%;
+    left: 5%;
+    display: inline-flex;
+    gap: 3%;
+  }
+
+  .container15 {
+    position: absolute;
+    top: 170%;
+    left: 27%;
+    display: inline-flex;
+    gap: 100%;
+  }
+
+  .container16 {
+    position: absolute;
+    top: 180%;
+    left: 40%;
+  }
+
+  .container17 {
+    position: absolute;
+    top: 200%;
+    left: 5%;
+  }
+
+  .container18 {
+    position: absolute;
+    top: 320%;
+    left: 5%;
+  }
+
+  .container19 {
+    position: absolute;
+    top: 320%;
+    right: 15%;
+  }
+
+  .container20 {
+   position: absolute;
+   top: 330%;
+   left: 5%;
+   display: inline-flex;
+   gap: 3%;
+  }
+
+  .container21 {
+   position: absolute;
+   top: 370%;
+   left: 2%;
+  }
